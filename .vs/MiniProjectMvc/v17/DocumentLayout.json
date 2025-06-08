@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\CodeAcademy\\Backend\\MiniProjectMvc\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7F7BF738-7559-4495-9AD7-4FEA444D3F65}|MiniProjectMvc\\MiniProjectMvc.csproj|c:\\users\\user\\desktop\\codeacademy\\backend\\miniprojectmvc\\miniprojectmvc\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F7BF738-7559-4495-9AD7-4FEA444D3F65}|MiniProjectMvc\\MiniProjectMvc.csproj|solutionrelative:miniprojectmvc\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F7BF738-7559-4495-9AD7-4FEA444D3F65}|MiniProjectMvc\\MiniProjectMvc.csproj|c:\\users\\user\\desktop\\codeacademy\\backend\\miniprojectmvc\\miniprojectmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F7BF738-7559-4495-9AD7-4FEA444D3F65}|MiniProjectMvc\\MiniProjectMvc.csproj|solutionrelative:miniprojectmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7F7BF738-7559-4495-9AD7-4FEA444D3F65}|MiniProjectMvc\\MiniProjectMvc.csproj|c:\\users\\user\\desktop\\codeacademy\\backend\\miniprojectmvc\\miniprojectmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7F7BF738-7559-4495-9AD7-4FEA444D3F65}|MiniProjectMvc\\MiniProjectMvc.csproj|solutionrelative:miniprojectmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -23,15 +31,39 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\CodeAcademy\\Backend\\MiniProjectMvc\\MiniProjectMvc\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "MiniProjectMvc\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\CodeAcademy\\Backend\\MiniProjectMvc\\MiniProjectMvc\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "MiniProjectMvc\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAAAjwCUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-08T14:19:01.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\CodeAcademy\\Backend\\MiniProjectMvc\\MiniProjectMvc\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MiniProjectMvc\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\CodeAcademy\\Backend\\MiniProjectMvc\\MiniProjectMvc\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MiniProjectMvc\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-08T14:18:55.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\CodeAcademy\\Backend\\MiniProjectMvc\\MiniProjectMvc\\Program.cs",
               "RelativeDocumentMoniker": "MiniProjectMvc\\Program.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\CodeAcademy\\Backend\\MiniProjectMvc\\MiniProjectMvc\\Program.cs",
               "RelativeToolTip": "MiniProjectMvc\\Program.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwBcAAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBkAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-08T12:43:59.912Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-08T12:43:59.912Z"
             }
           ]
         }
