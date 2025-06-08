@@ -9,7 +9,8 @@
   <ItemGroup>
     <Folder Include="Areas\Admin\Data\" />
     <Folder Include="Areas\Admin\Models\" />
-    <Folder Include="Service\Interface\" />
+    <Folder Include="Services\Interfaces\" />
+    <Folder Include="Services\Implemantation\" />
   </ItemGroup>
 
   <ItemGroup>

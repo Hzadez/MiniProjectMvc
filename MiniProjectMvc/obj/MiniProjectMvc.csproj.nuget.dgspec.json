@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\source\\repos\\MiniProjectMvc\\MiniProjectMvc\\MiniProjectMvc.csproj": {}
+    "C:\\Users\\user\\Desktop\\CodeAcademy\\Backend\\MiniProjectMvc\\MiniProjectMvc\\MiniProjectMvc.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\source\\repos\\MiniProjectMvc\\MiniProjectMvc\\MiniProjectMvc.csproj": {
+    "C:\\Users\\user\\Desktop\\CodeAcademy\\Backend\\MiniProjectMvc\\MiniProjectMvc\\MiniProjectMvc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\source\\repos\\MiniProjectMvc\\MiniProjectMvc\\MiniProjectMvc.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\CodeAcademy\\Backend\\MiniProjectMvc\\MiniProjectMvc\\MiniProjectMvc.csproj",
         "projectName": "MiniProjectMvc",
-        "projectPath": "C:\\Users\\user\\source\\repos\\MiniProjectMvc\\MiniProjectMvc\\MiniProjectMvc.csproj",
+        "projectPath": "C:\\Users\\user\\Desktop\\CodeAcademy\\Backend\\MiniProjectMvc\\MiniProjectMvc\\MiniProjectMvc.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\source\\repos\\MiniProjectMvc\\MiniProjectMvc\\obj\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\CodeAcademy\\Backend\\MiniProjectMvc\\MiniProjectMvc\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
