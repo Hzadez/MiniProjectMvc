@@ -262,3 +262,4 @@ C:\Users\user\Desktop\CodeAcademy\Backend\MiniProjectMvc\MiniProjectMvc\obj\Debu
 C:\Users\user\Desktop\CodeAcademy\Backend\MiniProjectMvc\MiniProjectMvc\obj\Debug\net8.0\MiniProjectMvc.pdb
 C:\Users\user\Desktop\CodeAcademy\Backend\MiniProjectMvc\MiniProjectMvc\obj\Debug\net8.0\MiniProjectMvc.genruntimeconfig.cache
 C:\Users\user\Desktop\CodeAcademy\Backend\MiniProjectMvc\MiniProjectMvc\obj\Debug\net8.0\ref\MiniProjectMvc.dll
+C:\Users\user\Desktop\CodeAcademy\Backend\MiniProjectMvc\MiniProjectMvc\bin\Debug\net8.0\AutoMapper.dll

@@ -74,7 +74,7 @@ namespace MiniProjectMvc.Migrations
                         {
                             Id = 1,
                             CreatedAt = new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            Date = new DateTime(2025, 6, 18, 16, 49, 3, 458, DateTimeKind.Local).AddTicks(4764),
+                            Date = new DateTime(2025, 6, 18, 19, 40, 51, 228, DateTimeKind.Local).AddTicks(5661),
                             Description = "Dərin C# təlimi",
                             EventTypeId = 3,
                             IsDeleted = false,
@@ -196,7 +196,7 @@ namespace MiniProjectMvc.Migrations
                             IsDeleted = false,
                             PersonId = 1,
                             Rating = 5,
-                            SubmittedAt = new DateTime(2025, 6, 8, 16, 49, 3, 458, DateTimeKind.Local).AddTicks(4913),
+                            SubmittedAt = new DateTime(2025, 6, 8, 19, 40, 51, 228, DateTimeKind.Local).AddTicks(5755),
                             UpdatedAt = new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified)
                         });
                 });
@@ -247,7 +247,7 @@ namespace MiniProjectMvc.Migrations
                             EventId = 1,
                             IsDeleted = false,
                             PersonId = 1,
-                            SentAt = new DateTime(2025, 6, 8, 16, 49, 3, 458, DateTimeKind.Local).AddTicks(4809),
+                            SentAt = new DateTime(2025, 6, 8, 19, 40, 51, 228, DateTimeKind.Local).AddTicks(5700),
                             Status = "Accepted",
                             UpdatedAt = new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified)
                         });
@@ -339,7 +339,7 @@ namespace MiniProjectMvc.Migrations
                             EventId = 1,
                             IsDeleted = false,
                             Message = "Bootcamp sabah saat 10:00-da başlayır",
-                            SentAt = new DateTime(2025, 6, 17, 16, 49, 3, 458, DateTimeKind.Local).AddTicks(4845),
+                            SentAt = new DateTime(2025, 6, 17, 19, 40, 51, 228, DateTimeKind.Local).AddTicks(5738),
                             UpdatedAt = new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified)
                         });
                 });
@@ -423,7 +423,7 @@ namespace MiniProjectMvc.Migrations
                         new
                         {
                             Id = 1,
-                            CheckInTime = new DateTime(2025, 6, 19, 1, 49, 3, 458, DateTimeKind.Local).AddTicks(4828),
+                            CheckInTime = new DateTime(2025, 6, 19, 4, 40, 51, 228, DateTimeKind.Local).AddTicks(5720),
                             CreatedAt = new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
                             InvitationId = 1,
                             IsDeleted = false,
