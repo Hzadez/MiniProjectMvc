@@ -263,3 +263,7 @@ C:\Users\user\Desktop\CodeAcademy\Backend\MiniProjectMvc\MiniProjectMvc\obj\Debu
 C:\Users\user\Desktop\CodeAcademy\Backend\MiniProjectMvc\MiniProjectMvc\obj\Debug\net8.0\MiniProjectMvc.genruntimeconfig.cache
 C:\Users\user\Desktop\CodeAcademy\Backend\MiniProjectMvc\MiniProjectMvc\obj\Debug\net8.0\ref\MiniProjectMvc.dll
 C:\Users\user\Desktop\CodeAcademy\Backend\MiniProjectMvc\MiniProjectMvc\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\user\Desktop\CodeAcademy\Backend\MiniProjectMvc\MiniProjectMvc\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\user\Desktop\CodeAcademy\Backend\MiniProjectMvc\MiniProjectMvc\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\user\Desktop\CodeAcademy\Backend\MiniProjectMvc\MiniProjectMvc\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\user\Desktop\CodeAcademy\Backend\MiniProjectMvc\MiniProjectMvc\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json

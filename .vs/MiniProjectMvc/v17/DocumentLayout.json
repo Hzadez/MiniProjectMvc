@@ -1,28 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\CodeAcademy\\Backend\\MiniProjectMvc\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{7F7BF738-7559-4495-9AD7-4FEA444D3F65}|MiniProjectMvc\\MiniProjectMvc.csproj|c:\\users\\user\\desktop\\codeacademy\\backend\\miniprojectmvc\\miniprojectmvc\\services\\implemantation\\genericservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F7BF738-7559-4495-9AD7-4FEA444D3F65}|MiniProjectMvc\\MiniProjectMvc.csproj|solutionrelative:miniprojectmvc\\services\\implemantation\\genericservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F7BF738-7559-4495-9AD7-4FEA444D3F65}|MiniProjectMvc\\MiniProjectMvc.csproj|c:\\users\\user\\desktop\\codeacademy\\backend\\miniprojectmvc\\miniprojectmvc\\services\\interfaces\\igenericservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F7BF738-7559-4495-9AD7-4FEA444D3F65}|MiniProjectMvc\\MiniProjectMvc.csproj|solutionrelative:miniprojectmvc\\services\\interfaces\\igenericservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F7BF738-7559-4495-9AD7-4FEA444D3F65}|MiniProjectMvc\\MiniProjectMvc.csproj|c:\\users\\user\\desktop\\codeacademy\\backend\\miniprojectmvc\\miniprojectmvc\\repository\\interface\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F7BF738-7559-4495-9AD7-4FEA444D3F65}|MiniProjectMvc\\MiniProjectMvc.csproj|solutionrelative:miniprojectmvc\\repository\\interface\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F7BF738-7559-4495-9AD7-4FEA444D3F65}|MiniProjectMvc\\MiniProjectMvc.csproj|c:\\users\\user\\desktop\\codeacademy\\backend\\miniprojectmvc\\miniprojectmvc\\repository\\implementation\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F7BF738-7559-4495-9AD7-4FEA444D3F65}|MiniProjectMvc\\MiniProjectMvc.csproj|solutionrelative:miniprojectmvc\\repository\\implementation\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F7BF738-7559-4495-9AD7-4FEA444D3F65}|MiniProjectMvc\\MiniProjectMvc.csproj|c:\\users\\user\\desktop\\codeacademy\\backend\\miniprojectmvc\\miniprojectmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F7BF738-7559-4495-9AD7-4FEA444D3F65}|MiniProjectMvc\\MiniProjectMvc.csproj|solutionrelative:miniprojectmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -30,76 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "GenericServices.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\CodeAcademy\\Backend\\MiniProjectMvc\\MiniProjectMvc\\Services\\Implemantation\\GenericServices.cs",
-              "RelativeDocumentMoniker": "MiniProjectMvc\\Services\\Implemantation\\GenericServices.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\CodeAcademy\\Backend\\MiniProjectMvc\\MiniProjectMvc\\Services\\Implemantation\\GenericServices.cs",
-              "RelativeToolTip": "MiniProjectMvc\\Services\\Implemantation\\GenericServices.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-08T15:23:02.636Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IGenericServices.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\CodeAcademy\\Backend\\MiniProjectMvc\\MiniProjectMvc\\Services\\Interfaces\\IGenericServices.cs",
-              "RelativeDocumentMoniker": "MiniProjectMvc\\Services\\Interfaces\\IGenericServices.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\CodeAcademy\\Backend\\MiniProjectMvc\\MiniProjectMvc\\Services\\Interfaces\\IGenericServices.cs",
-              "RelativeToolTip": "MiniProjectMvc\\Services\\Interfaces\\IGenericServices.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-08T15:22:29.08Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "GenericRepository.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\CodeAcademy\\Backend\\MiniProjectMvc\\MiniProjectMvc\\Repository\\Implementation\\GenericRepository.cs",
-              "RelativeDocumentMoniker": "MiniProjectMvc\\Repository\\Implementation\\GenericRepository.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\CodeAcademy\\Backend\\MiniProjectMvc\\MiniProjectMvc\\Repository\\Implementation\\GenericRepository.cs",
-              "RelativeToolTip": "MiniProjectMvc\\Repository\\Implementation\\GenericRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-08T15:20:57.342Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IGenericRepository.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\CodeAcademy\\Backend\\MiniProjectMvc\\MiniProjectMvc\\Repository\\Interface\\IGenericRepository.cs",
-              "RelativeDocumentMoniker": "MiniProjectMvc\\Repository\\Interface\\IGenericRepository.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\CodeAcademy\\Backend\\MiniProjectMvc\\MiniProjectMvc\\Repository\\Interface\\IGenericRepository.cs",
-              "RelativeToolTip": "MiniProjectMvc\\Repository\\Interface\\IGenericRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-08T15:20:45.173Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\CodeAcademy\\Backend\\MiniProjectMvc\\MiniProjectMvc\\Program.cs",
-              "RelativeDocumentMoniker": "MiniProjectMvc\\Program.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\CodeAcademy\\Backend\\MiniProjectMvc\\MiniProjectMvc\\Program.cs",
-              "RelativeToolTip": "MiniProjectMvc\\Program.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwBkAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-08T12:43:59.912Z",
-              "EditorCaption": ""
             }
           ]
         }

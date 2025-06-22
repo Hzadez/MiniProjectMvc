@@ -2,6 +2,8 @@
 using MiniProjectMvc.Entities;
 using MiniProjectMvc.Repository.Interface;
 using Microsoft.EntityFrameworkCore;
+using MiniProjectMvc.Data;
+using MiniProjectMvc.Repository.Implementation;
 
 namespace MiniProjectMvc.Repository.Implementation
 {
@@ -12,6 +14,7 @@ namespace MiniProjectMvc.Repository.Implementation
         {
             _context = context;
         }
+
         public async Task<IEnumerable<Invitation>> GetInvitationsWithEventAndPersonAsync()
         {
             return await _context.Invitations

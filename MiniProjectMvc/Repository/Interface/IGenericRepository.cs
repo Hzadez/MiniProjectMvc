@@ -9,6 +9,7 @@ namespace MiniProjectMvc.Repository.Interface
         Task<TEntity> AddAsync(TEntity entity);
         Task<TEntity> UpdateAsync(TEntity entity);
         Task<bool> DeleteAsync(int id);
-        Task<int> SaveChangesAsync();
+
+        Task<int> SaveChangesAsync(); // SaveChanges buraya əlavə olunur
     }
 }

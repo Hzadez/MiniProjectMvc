@@ -2,6 +2,7 @@
 using MiniProjectMvc.Entities;
 using MiniProjectMvc.Repository.Interface;
 using Microsoft.EntityFrameworkCore;
+using MiniProjectMvc.Repository.Implementation;
 
 namespace MiniProjectMvc.Repository.Implementation
 {
